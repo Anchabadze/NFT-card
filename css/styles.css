@@ -40,3 +40,26 @@ body {
     color: #8BACD9;
     margin-bottom: 24px;
 }
+
+.nft__info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+
+.nft__price {
+    color: #00FFF8;
+}
+
+.nft__days {
+    color: #D9D9D9;
+}
+
+.nft__line {
+    margin-bottom: 16px;
+}
+
+.nfr__author-ava {
+    width: 33px;
+    height: 33px;
+}
